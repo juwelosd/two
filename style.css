@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.banner-main{
+    width: 1140px;
+    margin: 0 auto;
+}
+.banner-details{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 50px 0px;
+}
+.banner-left h1{
+    width: 600px;
+    height: 234px;
+    font-family: sans-serif;
+    font-size: 60px;
+    font-weight: 700;
+    color: var(--575757, #575757);
+}
+.Skip{
+    color: orange;
+}
+.banner-left p{
+    width: 499px;
+    height: 64px;
+    color: #828282;
+    font-weight: 500;
+}
+button{
+    padding: 24px 32px;
+    width: 192px;
+    height: 68px;
+    border-radius: 100px;
+    border: none;
+    color:white;
+    background-color: tomato;
+}
