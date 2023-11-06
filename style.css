@@ -81,10 +81,7 @@ height: 536px;
     font-size: 18px;
     font-weight: 400;
 }
-.container-3{
-    width: 1140px;
-    margin: 0 auto;
-}
+
 .poster {
     width: 600px;
     margin: auto;
@@ -107,10 +104,6 @@ height: 536px;
     color: #252525;
     font-weight: 400;
     justify-content: center;
-}
-.container-4{
-    width: 1140px;
-    margin: 0 auto;
 }
 .main-card{
     display: flex;
@@ -137,10 +130,7 @@ height: 536px;
 .card-body p{
   padding: 15px;
 }
-.container-5{
-    width: 1140px;
-    margin: 0 auto;
-}
+
 .main-text{
     width: 1140px;
     margin: 0 auto;
@@ -173,11 +163,9 @@ height: 536px;
     font-size: 16px;
     font-weight: 400;
 }
-.comtainer-{
-    width: 1140px;
-    margin: 0 auto;
-}
+
 .head{
+  
     height:200px;
     margin-top: 50px;
    
